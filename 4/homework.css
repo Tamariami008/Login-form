@@ -1,0 +1,128 @@
+
+
+.tatu{
+   display: flex;
+   justify-content: center;
+   
+    
+  
+    
+
+
+    
+
+
+}
+ .box{
+      display: flex;
+    justify-content: center; 
+    border: 5px solid #3B4B7629 ;  
+     width: 528px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center; 
+    height: auto; 
+    flex-direction: column; 
+    height: 655px;
+    box-shadow: 50px;
+    
+   
+    
+
+   
+
+}
+.ph{
+    width: 81px;
+    height: 77px;
+    margin: 0 auto;
+
+}
+
+.sign-in{
+    width: 424px;
+    height: 64px;
+background-color: #691AFD;
+font-size: 24px;
+color: white;
+display: flex;
+flex: content;
+justify-content: center;
+
+  
+
+
+
+}
+.info{
+    display: flex;
+    flex-direction: inherit;
+    justify-content: center;
+    width: 424px;
+    height: 64px;
+    margin: 50px;
+    
+    
+    
+}
+.words{ 
+    font-size: 24px;
+
+}
+.FP{
+    font-size: 18px;
+    color: #9399A3;
+    display: flex;
+    flex: content;
+    justify-content: right;
+    
+
+   
+}
+.ugh{
+    font-size: 16px;
+    color: #9399A3 ;
+
+}
+.facebook{
+    background-color: blue;
+    color: white;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    font-size: 40px;
+
+}
+/* .google{
+    background-color: white;
+    color: red;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 50px ;
+    font-size: 40px;
+    
+} */
+/* .twitter{
+    background-color: #219FEF ;
+    color: white;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 50px;
+    font-size: 40px;
+
+} */
+
+
+
+
+
