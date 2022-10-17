@@ -1,2 +1,2 @@
 # Login-form
-For registration a.k.a Homework
+For registration, a.k.a Homework.
